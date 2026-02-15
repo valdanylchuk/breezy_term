@@ -51,7 +51,7 @@ typedef struct {
 } vterm_t;
 
 static vterm_t *s_vterms = NULL;
-static volatile int s_active_vt = 0;
+volatile int s_active_vt = 0;
 static void (*s_on_switch_cb)(int new_vt) = NULL;
 
 // Forward declarations

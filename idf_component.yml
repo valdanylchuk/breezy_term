@@ -1,4 +1,4 @@
-version: "1.0.0"
+version: "1.0.1"
 description: "breezy_term - The vterm used in BreezyBox, a mini shell for esp32-s3"
 url: "https://github.com/valdanylchuk/breezy_term"
 repository: "https://github.com/valdanylchuk/breezy_term.git"
